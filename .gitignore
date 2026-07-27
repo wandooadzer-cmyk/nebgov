@@ -27,3 +27,6 @@ Thumbs.db
 .cargo/
 test_snapshots/
 tools/sim/reports/*.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
